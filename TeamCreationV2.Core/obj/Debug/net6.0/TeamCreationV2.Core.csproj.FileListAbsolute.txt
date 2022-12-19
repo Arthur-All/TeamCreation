@@ -1,0 +1,14 @@
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\bin\Debug\net6.0\TeamCreationV2.Core.deps.json
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\bin\Debug\net6.0\TeamCreationV2.Core.runtimeconfig.json
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\bin\Debug\net6.0\TeamCreationV2.Core.dll
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\bin\Debug\net6.0\TeamCreationV2.Core.pdb
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.AssemblyInfo.cs
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.dll
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\refint\TeamCreationV2.Core.dll
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.pdb
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\TeamCreationV2.Core.genruntimeconfig.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreationV2.Core\obj\Debug\net6.0\ref\TeamCreationV2.Core.dll

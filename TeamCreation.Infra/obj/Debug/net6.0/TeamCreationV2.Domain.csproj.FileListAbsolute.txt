@@ -1,0 +1,17 @@
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\bin\Debug\net6.0\TeamCreationV2.Domain.deps.json
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\bin\Debug\net6.0\TeamCreationV2.Domain.runtimeconfig.json
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\bin\Debug\net6.0\TeamCreationV2.Domain.dll
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\bin\Debug\net6.0\TeamCreationV2.Domain.pdb
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\bin\Debug\net6.0\TeamCreationV2.Core.dll
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\bin\Debug\net6.0\TeamCreationV2.Core.pdb
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.AssemblyInfo.cs
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.csproj.CopyComplete
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.dll
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\refint\TeamCreationV2.Domain.dll
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.pdb
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\TeamCreationV2.Domain.genruntimeconfig.cache
+C:\Users\arthu\Desktop\APIS\DateApi\TeamCreationV2\TeamCreation.Infra\obj\Debug\net6.0\ref\TeamCreationV2.Domain.dll
